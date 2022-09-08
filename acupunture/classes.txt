@@ -1,0 +1,17 @@
+huyet Dai chuy
+huyet Dai tru L
+huyet Dai tru R
+huyet Phe du L
+huyet Phe du R
+huyet Tam du L
+huyet Tam du R
+huyet Cach du L
+huyet Cach du R
+huyet Can du L
+huyet Can du R
+huyet Ty du L
+huyet Ty du R
+huyet Than du L
+huyet Than du R
+huyet Dai truong du L
+huyet Dai truong du R
